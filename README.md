@@ -1,7 +1,7 @@
 <div align="center">
 <h2>🌿 LeafFit: Plant Assets Creation from 3D Gaussian Splatting (EG2026)</h2>
 
-[**Chang Luo**](http://netbeifeng.github.io/) · [**Umetani Nobuyuki**](https://cgenglab.github.io/en/authors/admin/)  
+[**Chang Luo**](http://chang9luo.github.io/) · [**Umetani Nobuyuki**](https://cgenglab.github.io/en/authors/admin/)  
 
 The University of Tokyo <br>
 
@@ -9,13 +9,13 @@ The University of Tokyo <br>
 
 <a href="https://arxiv.org/abs/2602.11577"><img src='https://img.shields.io/badge/arXiv-LeafFit 🌿-firebrick?logo=arxiv' alt='Arxiv'></a>
 <a href="./pdf/paper.pdf"><img src='https://img.shields.io/badge/PDF-LeafFit 🌿-orange?logo=googledocs&logoColor=white' alt='PDF'></a>
-<a href='https://netbeifeng.github.io/LeafFit/'><img src='https://img.shields.io/badge/Project_Page-LeafFit 🌿-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
+<a href='https://chang9luo.github.io/LeafFit/'><img src='https://img.shields.io/badge/Project_Page-LeafFit 🌿-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 <a href='https://www.youtube.com/watch?v=7l-g5TWmFyU'><img src='https://img.shields.io/badge/Video-LeafFit 🌿-red?logo=youtube' alt='Youtube Video'></a>
 </div>
 
 [\[Arxiv\]](https://arxiv.org/abs/2602.11577)
 [\[Paper\]](./pdf/paper.pdf) 
-[\[Project Page\]](https://netbeifeng.github.io/LeafFit/) 
+[\[Project Page\]](https://chang9luo.github.io/LeafFit/) 
 [\[Video\]](https://www.youtube.com/watch?v=7l-g5TWmFyU) 
 
 ## TODO
